@@ -1,0 +1,12 @@
+cv2
+glob
+matplotlib
+ngboost
+numpy
+opendatasets
+os
+pandas
+seaborn
+scikit-learn
+tensorflow
+opencv-python
